@@ -17,7 +17,7 @@ My first objective is to build a series of scatter plots to showcase the followi
 *Cloudiness (%) vs. Latitude*        
 *Wind Speed (mph) vs. Latitude*         
 
-My next objective is to run linear regression on each relationship, separating them by Northern and Southern Hemisphere:
+My next objective is to run a linear regression on each relationship, separating them by Northern and Southern Hemisphere:
 
 *Northern Hemisphere - Temperature (F) vs. Latitude*     
 *Southern Hemisphere - Temperature (F) vs. Latitude*     
