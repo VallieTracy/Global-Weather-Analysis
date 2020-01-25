@@ -7,7 +7,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 Now, we know what you may be thinking: "Duh. It gets hotter..."
 But, if pressed, how would you prove it?
 
-*Part I - WeatherPy*
+*WeatherPy Objectives*
 -------------------
 In WeatherPy, I'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I will utilize a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 My first objective is to build a series of scatter plots to showcase the following relationships:
@@ -28,10 +28,4 @@ My next objective is to run linear regression on each relationship, separating t
 *Northern Hemisphere - Wind Speed (mph) vs. Latitude*     
 *Southern Hemisphere - Wind Speed (mph) vs. Latitude*     
 
-After each pair of plots explain what the linear regression is modelling such as any relationships you notice and any other analysis you may have.
-Your final notebook must:
 
-Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
-Perform a weather check on each of the cities using a series of successive API calls.
-Include a print log of each city as it's being processed with the city number and city name.
-Save a CSV of all retrieved data and a PNG image for each scatter plot.
