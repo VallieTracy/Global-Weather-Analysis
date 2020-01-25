@@ -36,4 +36,4 @@ First I'll create a heat map that displays the humidity for every city in my cit
 
 And then I'll narrow down the dataframe with my ideal vacation conditions (which happen to be a Max Temp > 80 F, Humidity < 60, and Wind Speed either less than 5 mph, or greater than 30 mph).
 
-Lastly, to help my vacation planning, I'll use Google Places API to find the first hotel for each city located within 5000 meters of my ideal conditions.  And then I'll plot the hotels on top of the humidity heatmap with a pin that contains the hotel name, city, and country.
+Lastly, to help my vacation planning, I'll use Google Places API to find the first hotel for each city located within 5000 meters of my ideal conditions.  To bring it all together, I'll plot the hotels on top of the humidity heatmap with a pin that contains the hotel name, city, and country.
