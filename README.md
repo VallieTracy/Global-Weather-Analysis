@@ -38,5 +38,7 @@ And then I'll narrow down the dataframe with my ideal vacation conditions (which
 
 Lastly, to help my vacation planning, I'll use Google Places API to find the first hotel for each city located within 5000 meters of my ideal conditions.  To bring it all together, I'll plot the hotels on top of the humidity heatmap with a pin that contains the hotel name, city, and country.
 
-![VallieVacationDestinationsBrr](WeatherPy/Images/VallieVacationDestinationsBrr.png)  
+![vacay](WeatherPy/Images/vacay.png)  
+
+![vid](WeatherPy/Images/video.lnk)  
 
