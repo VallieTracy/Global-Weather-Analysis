@@ -40,5 +40,5 @@ Lastly, to help my vacation planning, I'll use Google Places API to find the fir
 
 ![vacay](WeatherPy/Images/vacay.png)  
 
-![vid](WeatherPy/Images/video.lnk)  
+![API_calls](WeatherPy/Images/API_calls.png)  
 
