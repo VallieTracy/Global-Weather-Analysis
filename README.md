@@ -29,13 +29,15 @@ https://openweathermap.org/api
 https://developers.google.com/places/web-service/get-api-key
  
 ## Finished Work ##
-
+#### API Calls ####
 ![API_calls](WeatherPy/Images/API_calls.PNG)     
 *Output as the API calls for the weather data is being run.  Again, if you'll be running the code multiple times, don't forget to add `time.sleep(1)`, because this will take ~10 minutes!* 
-       
-
+                   
+  <br>
+#### Vacation Map ####      
 ![vacay](WeatherPy/Images/vacay.png)     
 *A map of my ideal vacations.  Parameters: Max Temp > 80 F, Humidity < 60, and Wind Speed either less than 5 mph, or greater than 30 mph).*
+<br>
 
 ![Northern_WindSpeed_v_Latitude](WeatherPy/Images/Northern_WindSpeed_v_Latitude.png) 
  
