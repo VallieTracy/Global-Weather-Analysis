@@ -1,6 +1,30 @@
 TITLE
 ![global_grid](WeatherPy/Images/global_grid.png) 
 
+### Should you choose to clone this repo to your desktop and follow along, some things to note: ###
+1. DON'T FORGET TO ADD A GITIGNORE 
+      + featured image on NASA's Mars homepage     
+      + weather from NASA's Mars twitter feed  
+      + and the latest Mars headline                       
+2. You will now see that the page will update with the most current:  
+      + featured image on NASA's Mars homepage     
+      + weather from NASA's Mars twitter feed  
+      + and the latest Mars headline 
+3. You will now see that the page will update with the most current:  
+      + featured image on NASA's Mars homepage     
+      + weather from NASA's Mars twitter feed  
+      + and the latest Mars headline 
+4. You will now see that the page will update with the most current:  
+      + featured image on NASA's Mars homepage     
+      + weather from NASA's Mars twitter feed  
+      + and the latest Mars headline        
+5. You will now see that the page will update with the most current:  
+      + featured image on NASA's Mars homepage     
+      + weather from NASA's Mars twitter feed  
+      + and the latest Mars headline 
+               
+
+
 Background
 ----------
 
