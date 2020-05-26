@@ -1,4 +1,5 @@
-*python-api-challenge*
+TITLE
+![global_grid](WeatherPy/Images/global_grid.png) 
 
 Background
 ----------
