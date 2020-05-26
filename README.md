@@ -1,6 +1,7 @@
 # A Look at Global Weather Patterns
 
-![global_grid](WeatherPy/Images/global_grid.png)      
+
+![Northern_WindSpeed_v_Latitude](WeatherPy/Images/Northern_WindSpeed_v_Latitude.png)       
 
 ## Background ##
 In this repo, I gathered global data on current weather conditions thru API calls on OpenWeather and then ran a series of linear regressions, looking for weather patterns.  And then for fun, I set up my own parameters for what I want my vacation weather to be, and create a list of potential hotels and plotted them using gmaps.     
@@ -34,7 +35,8 @@ https://developers.google.com/places/web-service/get-api-key
 *Output as the API calls for the weather data is being run.  Again, if you'll be running the code multiple times, don't forget to add `time.sleep(1)`, because this will take ~10 minutes!* 
                    
   <br>
-#### Vacation Map ####      
+#### Vacation Map ####        
+
 ![vacay](WeatherPy/Images/vacay.png)     
 *A map of my ideal vacations.  Parameters: Max Temp > 80 F, Humidity < 60, and Wind Speed either less than 5 mph, or greater than 30 mph).*
 <br>
