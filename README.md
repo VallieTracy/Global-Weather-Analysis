@@ -1,12 +1,13 @@
 TITLE
 ![global_grid](WeatherPy/Images/global_grid.png) 
 
-### Should you choose to clone this repo to your desktop and follow along, some things to note: ###
+#### Should you choose to clone this repo to your desktop and follow along, some things to note: ###
 1. DON'T FORGET TO ADD A GITIGNORE 
       + You'll need two API keys, one for Open Weather Map, and one for Google     
       + Links below to where you can get your own API keys 
-      + To more easily follow along with my code, I placed both API keys inside a file called `config.py`, which is located in the `WeatherPy` folder and on the same level as the WeatherPy and VacationPy jupyter notebooks.                       
-2. You will now see that the page will update with the most current:  
+      + To more easily follow along with my code, I placed both API keys inside a file called `config.py`, which is located in the `WeatherPy` folder and on the same level as the WeatherPy and VacationPy jupyter notebooks 
+      + I titled both keys `g_key` & `weather_api_key`
+2. <b>You will now see that the page will update with the most current:</b>  
       + featured image on NASA's Mars homepage     
       + weather from NASA's Mars twitter feed  
       + and the latest Mars headline 
