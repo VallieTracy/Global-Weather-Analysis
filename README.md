@@ -6,7 +6,9 @@
       
 
 ## Background ##
-In this repo, I gathered global data on current weather conditions thru API calls on OpenWeather and then ran a series of linear regressions, looking for weather patterns.  And then for fun, I set up my own parameters for what I want my vacation weather to be, and create a list of potential hotels and plotted them using gmaps.     
+In this repo, I gathered global data on current weather conditions thru API calls on OpenWeather and then ran a series of linear regressions, looking for weather patterns.  And then for fun, I set up my own parameters for what I want my vacation weather to be, and then created a list of potential hotels and plotted them using gmaps.     
+
+In a subsequent repo, I put all of the linear regression maps and analysis into a webpage.  You can find that repo [here](https://github.com/VallieTracy/Web-Design-Challenge).
 
 ### Should you choose to clone this repo to your desktop and follow along, some things to note: ###
 1. <b>You'll need two API keys, one for Open Weather Map, and one for Google</b>
@@ -31,14 +33,5 @@ In this repo, I gathered global data on current weather conditions thru API call
 https://openweathermap.org/api      
 https://developers.google.com/places/web-service/get-api-key
  
-## Finished Work ##
-#### API Calls ####
-![API_calls](WeatherPy/Images/API_calls.PNG)     
-*Output as the API calls for the weather data is being run.  Again, if you'll be running the code multiple times, don't forget to add `time.sleep(1)`, because this will take ~10 minutes!* 
-                   
-<br>
 
-
-![Northern_WindSpeed_v_Latitude](WeatherPy/Images/Northern_WindSpeed_v_Latitude.png) 
- 
 
