@@ -7,10 +7,10 @@ TITLE
       + Links below to where you can get your own API keys 
       + To more easily follow along with my code, I placed both API keys inside a file called `config.py`, which is located in the `WeatherPy` folder and on the same level as the WeatherPy and VacationPy jupyter notebooks 
       + I titled both keys `g_key` & `weather_api_key`       
-2. <b>In the `WeatherPy Jupyter Notebook', notice lines 23 and 24 in Cell 1</b>  
-      + featured image on NASA's Mars homepage     
-      + weather from NASA's Mars twitter feed  
-      + and the latest Mars headline 
+2. <b>In the [`WeatherPy Jupyter Notebook'](https://github.com/VallieTracy/python-api-challenge/blob/master/WeatherPy/WeatherPy.ipynb), notice lines 23 and 24 in cell 1</b>  
+      + Under a free subscription to Open Weather, you get 60 API calls/minute     
+      + So in order to not get a temporary block from the service, you'll need to add the line of code `time.sleep(1)` in cell 3
+      + With my code, you'll get ~600 cities, so it will take roughly 10 miniutes.  To avoid the wait, you can play alter the latitudes and longitudes and play around more quickly with the data 
 3. <b>You will now see that the page will update with the most current:</b>  
       + featured image on NASA's Mars homepage     
       + weather from NASA's Mars twitter feed  
