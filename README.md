@@ -1,5 +1,5 @@
 # A Look at Global Weather Patterns
-*Gathering global data on current weather conditions thru API calls and then running a series of linear regressions, looking for weather patterns.  And then finding a list of hotels for vacation spots based on my own weather specs!* 
+Gathering global data on current weather conditions thru API calls and then running a series of linear regressions, looking for weather patterns.  And then finding a list of hotels for vacation spots based on my own weather specs! 
 
 ![global_grid](WeatherPy/Images/global_grid.png) 
 
