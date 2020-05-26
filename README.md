@@ -1,4 +1,6 @@
-TITLE
+# Weather and Vacation
+*Gathering global data on current weather conditions thru API calls and then running a series of linear regressions, looking for weather patterns.  And then finding a list of hotels for vacation spots based on my own weather specs!* 
+
 ![global_grid](WeatherPy/Images/global_grid.png) 
 
 ### Should you choose to clone this repo to your desktop and follow along, some things to note: ###
