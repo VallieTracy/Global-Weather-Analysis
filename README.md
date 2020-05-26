@@ -31,8 +31,11 @@ https://developers.google.com/places/web-service/get-api-key
 ## Finished Work ##
 
 Below is an image as the API calls for the weather data is being run.  Again, if you'll be running the code multiple times, don't forget to add `time.sleep(1)`, because this will take ~10 minutes!       
+
 ![API_calls](WeatherPy/Images/API_calls.PNG) 
 
+
+A map of my ideal vacations.  Parameters: Max Temp > 80 F, Humidity < 60, and Wind Speed either less than 5 mph, or greater than 30 mph).       
 
 ![vacay](WeatherPy/Images/vacay.png)  
 
