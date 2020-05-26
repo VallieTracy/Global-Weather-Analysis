@@ -5,7 +5,6 @@
 ## Background ##
 In this repo, I gathered global data on current weather conditions thru API calls on OpenWeather and then ran a series of linear regressions, looking for weather patterns.  And then for fun, I set up my own parameters for what I want my vacation weather to be, and create a list of potential hotels and plotted them using gmaps.     
 
-
 ### Should you choose to clone this repo to your desktop and follow along, some things to note: ###
 1. <b>You'll need two API keys, one for Open Weather Map, and one for Google</b>
       + DON'T FORGET TO ADD A GITIGNORE     
@@ -28,11 +27,14 @@ In this repo, I gathered global data on current weather conditions thru API call
 ## Helpful Links ##
 https://openweathermap.org/api      
 https://developers.google.com/places/web-service/get-api-key
-          
+ 
+## Finished Work ##
 
+Below is an image 
+![API_calls](WeatherPy/Images/API_calls.PNG) 
 
 
 ![vacay](WeatherPy/Images/vacay.png)  
 
-![API_calls](WeatherPy/Images/API_calls.PNG)  
+ 
 
