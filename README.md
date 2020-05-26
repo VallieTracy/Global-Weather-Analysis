@@ -19,6 +19,10 @@ TITLE
       + I created VacationPy so that I could alter my parameters based on vacation criteria that I wanted  
       + You'll need to run WeatherPy *first* seeing as VacationPy utilizes the cities.csv created there
       + You can run the code and put in your own weather criteria so as to create your own list of hotels for vacation!
+      
+## Helpful Links ##
+https://openweathermap.org/api      
+https://developers.google.com/places/web-service/get-api-key
           
 
 
